@@ -1,0 +1,5 @@
+# Set username and password here
+:user:
+    # wuser = reg, wadmin = admin, wsuper = superadmin
+    :username: 'wadmin'
+    :password: 'Cloud1sCalling'

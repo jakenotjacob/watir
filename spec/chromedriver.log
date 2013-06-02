@@ -1,0 +1,42 @@
+[0.000][INFO]:      ChromeDriver 26.0.1383.0 /home/jake/bin/chromedriver
+[0.250][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.detach": true,
+   "chromeOptions": {
+      "detach": true
+   },
+   "cssSelectorsEnabled": true,
+   "javascriptEnabled": true,
+   "nativeEvents": false,
+   "platform": "ANY",
+   "rotatable": false,
+   "takesScreenshot": false,
+   "version": ""
+}
+
+[0.250][INFO]:      Using named testing interface
+[0.751][INFO]:      Connected to Chrome successfully. Version: 27.0.1453.93
+[0.753][FINE]:      Command received (/session/78adaeaade422e78f78f700bd0f326e7)
+[0.753][FINE]:      Command finished (/session/78adaeaade422e78f78f700bd0f326e7) with response {
+   "sessionId": "78adaeaade422e78f78f700bd0f326e7",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "26.0.1383.0",
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "linux",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "27.0.1453.93",
+      "webStorageEnabled": true
+   }
+}
+

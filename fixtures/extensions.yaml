@@ -1,0 +1,25 @@
+#[===================]
+#USER SETTTINGS TAB
+#[===================]
+:userSettings:
+  :extensionNumber: '123'
+  :firstName: 'jake'
+  :lastName: 'campbell'
+  :description: 'nothingtoseehere'
+  :location:
+  :email:
+  :ringDuration:
+  :musicOnHold: #dropdown (must already exist; else default)
+  :cidNumber:
+  :cidName:
+  :dirHide: #y/n
+  :faxNotify: #y/n
+  :faxEmailAttach: #y/n
+###ADVANCED OPTIONS###
+:qualify: #y/n
+:transport:
+:timezoneOverride:
+:observeDst:
+#[===================]
+#	VOICEMAIL TAB
+#[===================]

@@ -1,0 +1,14 @@
+===INTRODUCTION===
+The files that are contained in this folder (../spec/*)
+are the step files that run the actual tests.
+
+They pull their class definitions from the ../lib/ directory,
+and their configuration files from the ../fixtures directory.
+
+Any modifications to the data being inputted must be done through
+the test's respective config/YAML file.
+
+===HOW TO RUN TESTS===
+All test are run via their spec file via the command:
+
+rspec -c -fd <test_name_here>

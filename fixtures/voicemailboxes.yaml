@@ -1,0 +1,19 @@
+:options:
+    :number:
+    :password:
+    :fullName:
+    :timeZone:
+:notifications:
+    :email:
+    :attachVM:
+    :textNotify:
+:advanced:
+    :sayCID:
+    :review:
+    :envelope:
+    :sayDuration:
+    :sendVM:
+    :deleteAfter:
+    :dirHide:
+    :tempGreetWarn:
+    :exitApp:

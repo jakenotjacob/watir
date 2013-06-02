@@ -1,0 +1,16 @@
+:name: 'Main'
+:address:
+  :line1: '123 E. Test Dr.'
+  :line2: 'Apt. 456'
+  :city: 'TestCity'
+  :state: 'TestState'
+  :zipCode: '12345'
+:phoneNum: '111111111'
+#Yes/No - This is case sensitive; capitalize the first letter
+:allow7Digit: 'Yes'
+#Only required if 7digit is allowed
+:areaCode: '303'
+#Defines app to be used when dialing 0 at VM box
+:exitApp: 'Text To Speech'
+:exitOption:
+###
